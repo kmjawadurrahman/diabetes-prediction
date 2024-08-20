@@ -1,0 +1,8 @@
+.env
+.DS_STORE
+data/
+wandb/
+jawadur/
+myenv/
+*.joblib
+*.png
